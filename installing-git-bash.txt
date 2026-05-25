@@ -1,0 +1,8 @@
+1. Install the git bash from the browser.
+2. Run the file and Install it with the default setting (You can take the help of ai).
+3. Once you have Install you can create a directory and run the basic git commands to pull the repo.
+4. You need to configure your git Once to create your identity :
+    git config --gloabal user.name "your name"
+    git config --global user.email "your_example@email.com"
+5. Once your identity is created you can verify by typing
+    git confid --global --list
