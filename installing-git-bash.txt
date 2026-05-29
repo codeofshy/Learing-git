@@ -6,3 +6,7 @@
     git config --global user.email "your_example@email.com"
 5. Once your identity is created you can verify by typing
     git confid --global --list
+
+This helps you to setup you github with the gitbash.
+once the details are filled correctly you then automatically a verificaation is opened on your browser.
+Simply sign in with accurate value.
